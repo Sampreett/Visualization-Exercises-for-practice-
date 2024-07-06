@@ -47,6 +47,6 @@
 
 **The Great Bicycle Boom of 2020**
 
-![The Great Bicycle Boom 2020](images/"The Great Bicycle Boom.png")
+![The Great Bicycle Boom 2020](images/The%20Great%20Bicycle%20Boom.png)
 
 ---
