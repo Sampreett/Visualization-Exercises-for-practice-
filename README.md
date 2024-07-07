@@ -1,4 +1,4 @@
-# Visualization Exercises for practice 
+
 
 **New Year's Resolutions** 
 
